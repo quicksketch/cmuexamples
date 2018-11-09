@@ -1,0 +1,13 @@
+name: "CMU's 2019"
+type: theme
+description: 'The theme for the CMU multisite platform.'
+version: 1.0
+core: 8.x
+base theme: false
+libraries:
+  - cmu2019/global-styling
+ckeditor_stylesheets:
+  - css/style.css
+
+#regions:
+#  - content

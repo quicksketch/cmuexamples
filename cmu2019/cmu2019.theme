@@ -1,0 +1,10 @@
+<?php
+
+function cmu2019_preprocess_page(&$variables) {
+  $variables['my_new_variable'] = "Today's date is " . date('c');
+}
+
+function cmu2019_preprocess_menu(&$variables) {
+  //kint('hello!');
+  //kint($variables);
+}
