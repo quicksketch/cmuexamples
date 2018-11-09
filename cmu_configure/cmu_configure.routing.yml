@@ -1,0 +1,7 @@
+cmu_configure.site_settings:
+  path: '/admin/config/cmu-site-settings'
+  defaults:
+    _title: 'CMU Site Settings'
+    _form: '\Drupal\cmu_configure\Form\CmuConfigureForm'
+  requirements:
+    _permission: 'administer site configuration'

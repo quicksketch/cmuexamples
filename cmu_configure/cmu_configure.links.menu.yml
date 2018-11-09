@@ -1,0 +1,5 @@
+cmu_configure.site_settings:
+  title: 'CMU site settings'
+  parent: system.admin_config_system
+  description: 'CMU-specific site configuration settings.'
+  route_name: cmu_configure.site_settings

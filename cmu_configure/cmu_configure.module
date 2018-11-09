@@ -1,0 +1,6 @@
+<?php
+
+/**
+ * @file
+ * CMU Configure module. Provides an example hook_form_alter().
+ */

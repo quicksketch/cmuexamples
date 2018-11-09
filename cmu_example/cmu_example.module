@@ -2,5 +2,5 @@
 
 /**
  * @file
- * AHA Status module. Provides a status check at /status.
+ * CMU example module. Provides a status check at /status.
  */
