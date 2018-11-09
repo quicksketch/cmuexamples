@@ -1,0 +1,6 @@
+<?php
+
+/**
+ * @file
+ * AHA Status module. Provides a status check at /status.
+ */

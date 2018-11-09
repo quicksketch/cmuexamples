@@ -1,0 +1,10 @@
+cmu_example.status:
+  path: '/status'
+  defaults:
+    _controller: '\Drupal\cmu_example\Controller\RouteController::content'
+    _title: 'Health Check'
+  requirements:
+    _access: 'TRUE'
+  options:
+    no_cache: 'TRUE'
+    _maintenance_access: 'TRUE'

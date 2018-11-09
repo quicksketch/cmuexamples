@@ -1,0 +1,4 @@
+services:
+      cmu_example.routecontroller:
+        class: Drupal\cmu_example\Controller\RouteController
+        arguments: ['@database']

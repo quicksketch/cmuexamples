@@ -1,0 +1,6 @@
+name: CMU Example
+description: Provides a status check page.
+package: CMU
+type: module
+version: 1.0
+core: 8.x
